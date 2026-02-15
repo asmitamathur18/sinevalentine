@@ -11,3 +11,5 @@ Smooth 9-second eased animation Glowing red curve with canvas shadow blur Dashed
 Built With
 
 HTML5 Canvas — curve rendering Vanilla JavaScript — requestAnimationFrame animation loop CSS3 — dark background, pulsing glow on the title Google Fonts — Dancing Script + Courier Prime
+
+site live at: https://asmitamathur18.github.io/sinevalentine/
